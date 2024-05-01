@@ -1,6 +1,6 @@
 export default function Footer(){
     return(
-        <div className="mt-6 border-t-4 border-[#4d4d4d] lg:flex justify-between">
+        <div className="mt-6 border-t-4 border-[#4d4d4d] md:flex justify-between">
         <div className="mt-1">
           <p>
             Copyriright 2023 UTFPR. All rights reserved!

@@ -7,7 +7,7 @@ export default function Clients(){
         <div>
             <h3 className="text-emerald-500 text-5xl font-semibold">What client says about us</h3>
         </div>
-        <div className="text-left lg:grid grid-cols-3">
+        <div className="text-left md:grid grid-cols-3">
             <div  className="p-2 mx-2 mt-5 rounded-2xl bg-[#4d4d4d]">
                 <div className="m-2">
                     <img src="/img/client1.png" alt="" />
