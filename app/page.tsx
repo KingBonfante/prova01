@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import Banner from "./components/Banner";
 import Built from "./components/Built";
 import Templates from "./components/Templates";
+import Clients from "./components/Clients";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Banner/>
       <Built/>
       <Templates/>
+      <Clients/>
    </div>
   );
 }
