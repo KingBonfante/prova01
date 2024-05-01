@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import Banner from "./components/Banner";
 import Built from "./components/Built";
-// import Footer from "./components/Footer";
+import Templates from "./components/Templates";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
       <Header/>
       <Banner/>
       <Built/>
-      {/* <Footer/> */}
+      <Templates/>
    </div>
   );
 }
