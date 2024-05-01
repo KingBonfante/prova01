@@ -1,6 +1,6 @@
 export default function Header(){
     return(
-        <div className="gap text-left grid grid-cols-2">
+        <div className="mt-20 gap-2 text-left grid grid-cols-2 lg:grid-cols-4 content-center">
             <div>
                 <h4 className="font-bold">WDM</h4>
                 <div className="font-light">
