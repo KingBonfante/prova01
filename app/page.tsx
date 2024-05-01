@@ -4,6 +4,7 @@ import Built from "./components/Built";
 import Templates from "./components/Templates";
 import Clients from "./components/Clients";
 import Questions from "./components/Questions";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Templates/>
       <Clients/>
       <Questions/>
+      <Footer/>
    </div>
   );
 }
