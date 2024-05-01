@@ -1,6 +1,6 @@
 export default function Templates(){
     return(
-        <div className="mt-8 md:grid grid-cols-2 items-center">
+        <div className="mt-8 md:grid grid-cols-2 items-center text-left">
             <div className="mx-2 mt-20">
                 <img src="/img/cobertura.png" alt="" />
             </div>
